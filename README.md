@@ -1,37 +1,45 @@
-## California Housing Price Prediction:
-Machine learning project predicting housing prices in California using various features like location, median income, and house characteristics.
+# California Housing Price Prediction
 
-## Project Overview:
-This project was completed as part of a team effort to design and evaluate multiple ML models for predicting housing prices. 
-We compared classical machine learning and deep learning approaches.
+> A comparative machine learning project predicting housing prices from demographic and geographic features.
 
-## Results:
-- **Best Model**: Linear Regression
-- **RMSE**: ~68,073
-- **R² Score**: ~0.66
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-## Technologies Used:
-- Python
-- Pandas
-- TensorFlow/Keras
-- Scikit-learn
-- Jupyter Notebook
+## Overview
 
-## How to:
-1. Clone this repository
-2. Install requirements: `pip install pandas numpy scikit-learn tensorflow`
-3. Open the Jupyter notebook
-4. Run all cells
+A team project comparing classical machine learning and deep learning approaches using features such as median income, location, and housing characteristics.
 
-## What I Learned:
-- Data cleaning and preprocessing techniques
-- Model selection and evaluation
-- Comparing classical vs deep learning approaches
-- Team collaboration and project workflow
+## Results
 
-## Authors:
-**Terrence Wesh**
-**Sadaya Preston**
-**Peyton Rihner**
-- GitHub: [@xsadaya](https://github.com/xsadaya)
-- LinkedIn: [Sadaya Preston](https://www.linkedin.com/in/sadaya-preston-245305230)
+| Metric | Reported result |
+| --- | --- |
+| Best model | Linear Regression |
+| RMSE | ~68,073 |
+| R² | ~0.66 |
+
+## Project files
+
+- [Analysis notebook](Machine_learning_Project_Data_Set_pynb%20%281%29.ipynb)
+- [Project report](Machine%20learning%20Project%20Report.pdf)
+
+## Getting started
+
+Install the required Python libraries:
+
+```bash
+pip install pandas numpy scikit-learn tensorflow jupyter
+jupyter notebook
+```
+
+Open the analysis notebook and follow its data-loading steps.
+
+## Skills demonstrated
+
+Data preprocessing · Model selection · Regression · Model evaluation · Team collaboration
+
+## Contributors
+
+Terrence Wesh · Sadaya Preston · Peyton Rihner
+
+---
+
+[Portfolio](https://xsadaya.github.io) · [LinkedIn](https://www.linkedin.com/in/sadaya-preston-245305230)
